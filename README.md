@@ -1,2 +1,4 @@
 # web-design-challenge
-Images/landingResize.png
+
+![GitHub Logo](Images/landingResize.png)
+Format: ![Alt Text](url)
