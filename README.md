@@ -1,5 +1,8 @@
 # web-design-challenge
 
+**Link to the project**
+https://masiesworld.github.io/web-design-challenge/index.html
+
 ### Landing Page
 
 ![Alt text](Images/landingResize.png "Optional Title")
